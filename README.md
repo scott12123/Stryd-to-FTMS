@@ -12,3 +12,7 @@ Upload the script to your ESP32 device.
 
 ## Operation
 On boot the ESP should detect the Stryd if awake/available and will begin broadcasting the ESP as an FTMS device.
+
+### Other
+I also had a MPU6050 to record the incline however this has not been reporting live data accurately. Set MPU6050_Installed to false if you dont want to record incline data.
+
