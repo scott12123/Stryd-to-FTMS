@@ -16,3 +16,4 @@ On boot the ESP should detect the Stryd if awake/available and will begin broadc
 ### Other
 I also had a MPU6050 to record the incline however this has not been reporting live data accurately. Set MPU6050_Installed to false if you dont want to record incline data.
 
+<a href="https://www.buymeacoffee.com/scott12123" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
